@@ -1,0 +1,6 @@
+self: play -> geoloco 0.1
+
+require:
+    - play
+    - play -> betterlogs 1.0
+    - com.google.collections -> google-collections 1.0
